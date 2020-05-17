@@ -1,0 +1,5 @@
+A Semantic Approach for Entity Linking by Diverse Knowledge Integration incorporating Role-Based Chunking
+https://doi.org/10.1016/j.procs.2020.03.339
+
+A Novel Semantic Approach for Intelligent Response Generation using Emotion Detection Incorporating NPMI Measure
+https://doi.org/10.1016/j.procs.2020.03.320
