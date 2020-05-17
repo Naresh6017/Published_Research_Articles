@@ -1,0 +1,5 @@
+A Novel Approach for Ontology Focused Inter-Domain Personalized Search based on Semantic Set Expansion.
+https://ieeexplore.ieee.org/document/9092155
+
+OntoQuest: An Ontological Strategy for Automatic Question Generation for e-assessment using Static and Dynamic Knowledge.
+https://ieeexplore.ieee.org/document/9092034
